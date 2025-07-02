@@ -139,7 +139,14 @@
     list-style: none;
     padding: 0.8rem 0;
     /* overflow: scroll; */
+    /* overflow-y: auto;        
+    max-height: 100rem;        
+    scrollbar-width: none;    
+    -ms-overflow-style: none; */
   }
+  /* .list::-webkit-scrollbar {
+    display: none;  
+  } */
   
   .list-watched {
     height: calc(100% - 9rem);
