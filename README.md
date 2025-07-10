@@ -16,6 +16,7 @@
 - ⭐ **Rating System**: Rate each movie from 1 to 10.
 - ➕ **Add to List**: Save rated movies in a custom list.
 - 🧾 **View Details**: See basic information like title, poster, release year, and IMDB rating.
+- ❌ **Remove from list**: Remove rated movies movies from the custom list 
 - 🧹 **Clear UI**: Responsive design with intuitive interactions and clean CSS styling.
 
 
@@ -32,8 +33,8 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/movie-app.git
-cd movie-app
+git clone https://github.com/Horlanrewajucode/movie-rating-app.git
+cd movie-rating-app
 ````
 
 2. **Install Dependencies**
